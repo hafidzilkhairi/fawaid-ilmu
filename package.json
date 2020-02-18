@@ -34,19 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-loader": "^8.0.6",
-    "babel-preset-env": "^1.7.0",
-    "babel-preset-react": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1",
-    "css-loader": "^3.4.2",
-    "envify": "^4.1.0",
-    "svg-inline-loader": "^0.8.2",
-    "terser": "^4.6.3",
-    "terser-webpack-plugin": "^2.3.5",
-    "uglifyify": "^5.0.2",
-    "webpack": "^4.41.6"
   }
 }
